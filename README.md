@@ -35,8 +35,12 @@ python expense-tracker.py
 
 ### Main Menu
 
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](screenshots/main-menu.png)
+
+### View Expenses
+
+![Expenses](screenshots/view-expenses.png)
 
 ### Category Summary
 
-![Summary](screenshots/category_summary.png)
+![Summary](screenshots/category-summary.png)
